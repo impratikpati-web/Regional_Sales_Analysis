@@ -56,3 +56,9 @@ I approached this project like a real-world business case:
 - A sharp drop in early 2024 emerged as an anomaly, highlighting potential operational or market disruptions.
 #### Insight:
 The business is stable but vulnerable to unexpected shocks — proactive monitoring is essential.
+
+### Product Performance
+- A small group of products generated a disproportionate share of revenue:
+   - Product 26 ($118M)
+   - Product 25 ($110M)
+- Mid-tier products showed strong growth potential, while bottom-tier products lagged.
