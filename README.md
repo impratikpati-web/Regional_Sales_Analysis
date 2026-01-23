@@ -6,4 +6,4 @@
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20%26%20Visualization-brightgreen)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Future%20Scope-orange)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
