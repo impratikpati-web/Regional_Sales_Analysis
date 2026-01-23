@@ -13,3 +13,11 @@ Acme Co. wanted to understand why some regions and products consistently outperf
 
 However, their sales data was fragmented across multiple dimensions — products, customers, channels, and regions — making it difficult to extract clear insights.
 
+### Goal
+Transform raw sales data (2021–2025) into actionable insights that help leadership optimize growth, reduce risk, and improve profitability.
+
+
+## My Approach as a Data Analyst
+I approached this project like a real-world business case:
+
+### 1. Data Understanding & Preparation
