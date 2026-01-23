@@ -103,3 +103,10 @@ Overall, this project demonstrates my ability to:
 - Communicate insights in a business-focused manner.
 - Build dashboards that enable data-driven decision-making.
 - Deliver measurable value through analytics.
+
+
+## Author
+
+# PRATIK PATI
+
+### Data Analyst | Python | SQL | Power BI | Business Intelligence
