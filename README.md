@@ -62,3 +62,44 @@ The business is stable but vulnerable to unexpected shocks — proactive monitor
    - Product 26 ($118M)
    - Product 25 ($110M)
 - Mid-tier products showed strong growth potential, while bottom-tier products lagged.
+#### Insught:
+Revenue concentration creates risk but also reveals clear opportunities for product optimization.
+
+### Regional & Channel Dynamics
+- West region contributed ~35% of total revenue, followed by South and Midwest.
+- Channel mix:
+   - Wholesale: 54%
+   - Distributor: 31%
+   - Export: 15%
+- Export channel showed the highest profit margins (~38%).
+#### Insights:
+The company is heavily dependent on domestic wholesale but has high-margin opportunities in international markets.
+
+### Pricing, Profit & Customer Behavior
+- Unit price was the strongest driver of revenue and profit.
+- Profit margins showed weak correlation with price, suggesting standardized pricing strategies.
+- Top 10 customers accounted for a significant share of total revenue.
+#### Insight:
+Strategic pricing and customer diversification could significantly improve long-term profitability.
+
+## Strategic Recommendations
+
+Based on the analysis, I proposed data-driven actions.
+
+- Expand Export Business to leverage high-margin opportunities.
+- Optimize Pricing Models for mid-tier products.
+- Reduce Customer Concentration Risk through targeted growth strategies.
+- Investigate 2024 Revenue Drop to prevent future disruptions.
+- Align Marketing with Seasonal Trends for maximum ROI.
+
+## Conclusion
+This project showcases a complete, end-to-end data analytics workflow, from raw transactional data to executive-level insights and strategic recommendations. By combining Python-based exploratory analysis with Power BI dashboards, the analysis translates complex data into clear, actionable business outcomes.
+
+Beyond technical execution, the project emphasizes business impact—identifying revenue risks, margin expansion opportunities, and growth levers across products, regions, channels, and customers. The insights and recommendations reflect how data analysts support decision-makers with evidence-based strategies rather than just reports.
+
+Overall, this project demonstrates my ability to:
+
+- Analyze large, multi-dimensional datasets.
+- Communicate insights in a business-focused manner.
+- Build dashboards that enable data-driven decision-making.
+- Deliver measurable value through analytics.
