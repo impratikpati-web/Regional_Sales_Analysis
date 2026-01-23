@@ -9,3 +9,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## The Business Problem
+Acme Co. wanted to understand why some regions and products consistently outperformed others, whether their revenue was sustainable, and how pricing, channels, and customer behavior influenced profitability.
+
+However, their sales data was fragmented across multiple dimensions — products, customers, channels, and regions — making it difficult to extract clear insights.
+
