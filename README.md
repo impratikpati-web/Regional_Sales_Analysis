@@ -46,3 +46,13 @@ I approached this project like a real-world business case:
      <img width="1307" height="731" alt="Screenshot 2026-01-21 211956" src="https://github.com/user-attachments/assets/1ad40d4f-5b48-4b1d-91a4-4cb1e9538b5e" />
    - Q&A Page
      <img width="1308" height="735" alt="Screenshot 2026-01-21 212018" src="https://github.com/user-attachments/assets/08d0842a-9c66-4399-90da-4a09254e3948" />
+
+
+## What the Data Revealed
+
+### Revenue & Seasonality
+- Monthly revenue remained stable between $23M–$26.5M, indicating a strong and predictable business model.
+- Sales peaked during May–June and dipped in January, revealing clear seasonal behavior.
+- A sharp drop in early 2024 emerged as an anomaly, highlighting potential operational or market disruptions.
+#### Insight:
+The business is stable but vulnerable to unexpected shocks — proactive monitoring is essential.
